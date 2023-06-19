@@ -21,4 +21,9 @@ class Container implements ContainerInterface
         var_dump("has:".$id);
         return true;
     }
+
+    public function set()
+    {
+        var_dump(33333);
+    }
 }
