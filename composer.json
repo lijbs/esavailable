@@ -1,0 +1,19 @@
+{
+    "name": "lizhenbo/esavailable",
+    "description": "This is a lib project",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lizhenbo\\Esavailable\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lizhenbo",
+            "email": "805391825@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
